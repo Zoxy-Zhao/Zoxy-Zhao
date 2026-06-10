@@ -8,10 +8,10 @@
 
 | 项目 | 简介 | 亮点 |
 |------|------|------|
-| [strawberry_grasp](https://github.com/Zoxy-Zhao/strawberry_grasp) | RA6M5 + Raspberry Pi 5 异构双脑草莓柔性分拣机器人 | 瑞萨杯入围国赛 ｜ 187 参数手写 C MLP，端侧推理 <1ms |
+| [strawberry-sorting-robot](https://github.com/Zoxy-Zhao/strawberry-sorting-robot) | RA6M5 + Raspberry Pi 5 异构双脑草莓柔性分拣机器人 | 瑞萨杯入围国赛 ｜ 187 参数手写 C MLP，端侧推理 <1ms |
 | [AI-Magic-Remover](https://github.com/Zoxy-Zhao/AI-Magic-Remover) | MobileSAM + LaMa 全 ONNX 图像物体消除 | [🤗 在线 Demo](https://huggingface.co/spaces/Zayn-ai/AI-Magic-Remover) ｜ Web / 桌面端双形态 |
 | [AIDoLamp](https://github.com/Zoxy-Zhao/AIDoLamp) | 树莓派 5 双 CSI 并行推理多模态智能台灯 | 计算机设计大赛中南赛区二等奖 |
-| [rubbish_car](https://github.com/Zoxy-Zhao/rubbish_car) | Jetson Orin NX + ROS2 智能垃圾拾取机器人 | YOLOv5 CUDA 推理 ｜ MQTT 端-管-云 |
+| [ros2-trash-picking-robot](https://github.com/Zoxy-Zhao/ros2-trash-picking-robot) | Jetson Orin NX + ROS2 智能垃圾拾取机器人 | YOLOv5 CUDA 推理 ｜ MQTT 端-管-云 |
 
 ## 🛠️ 技术栈
 
